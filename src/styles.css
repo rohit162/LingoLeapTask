@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.chnge-clr{
+  color: red;
+  font-weight: bold;
+}
+.box{
+  border: 2px solid grey;
+  border-radius: 3px;
+}
+.box:hover{
+  border-color: blue; /* Change border color to blue on hover */
+}
+input:focus{
+  border-color: blue; /* Change border color to blue when focused */
+}
